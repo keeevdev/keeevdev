@@ -1,6 +1,6 @@
 ### <div align="center">Welcome to My GitHub Profile</div>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=%23FF79C6&size=30&center=true&vCenter=true&width=600&height=70&lines=Full-Stack+Developer;Passionate+about+Technology;Innovating+with+Code)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=%23FF79C6&size=30&center=true&vCenter=true&width=500&height=70&lines=Full-Stack+Developer;Passionate+about+Technology;Innovating+with+Code)
 
 ---
 
@@ -11,13 +11,12 @@
     <tr>
       <td align="center">
         <a href="https://github.com/keeevdev">
-          <!-- Usando el token secreto PAT_1 -->
-          <img src="https://github-readme-stats.vercel.app/api?username=keeevdev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&token=${{ secrets.PAT_1 }}" alt="GitHub Statistics" />
+          <img src="https://github-readme-stats.vercel.app/api?username=keeevdev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Statistics" />
         </a>
       </td>
       <td align="center">
         <a href="https://github.com/keeevdev">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=keeevdev&layout=compact&theme=tokyonight&hide_border=true&token=${{ secrets.PAT_1 }}" alt="Top Languages" />
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=keeevdev&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
         </a>
       </td>
     </tr>
@@ -33,7 +32,7 @@
 
 ---
 
-### ⚡ Technologies and Tools
+### Technologies and Tools
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="50" height="50" alt="React" />
